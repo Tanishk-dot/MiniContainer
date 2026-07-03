@@ -1,0 +1,11 @@
+{
+  "digest": "sha256:71864d3171af11cc3709ac7201a48c0583e326147ef99d8c03603f83cff7d43d",
+  "schema_version": 2,
+  "media_type": "application/vnd.docker.distribution.manifest.v2+json",
+  "config": "sha256:b79606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910",
+  "layers": [
+    "sha256:77ea7eee3d80b1a38f83906dd3048e2689457eb90e18a7d12f839c5ae37106a2"
+  ],
+  "size": 401,
+  "created_at": "2026-06-23T05:20:30Z"
+}
